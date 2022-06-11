@@ -5,6 +5,7 @@ What is Stack Data Structure?
 Stack is an abstract data type with a bounded(predefined) capacity. It is a simple data structure that allows adding and removing elements in a particular order. Every time an element is added, it goes on the top of the stack and the only element that can be removed is the element that is at the top of the stack, just like a pile of objects.
 
 Stack Data Structure
+![image](https://user-images.githubusercontent.com/18789513/173171715-41d27b62-ffe7-4721-bee6-383ca9f33a6e.png)
 
 Basic features of Stack
 Stack is an ordered list of similar data type.
@@ -22,6 +23,7 @@ Implementation of Stack Data Structure
 Stack can be easily implemented using an Array or a Linked List. Arrays are quick, but are limited in size and Linked List requires overhead to allocate, link, unlink, and deallocate, but is not limited in size. Here we will implement Stack using array.
 
 Implementation of Stack
+![image](https://user-images.githubusercontent.com/18789513/173171721-fb778b5f-34fd-40f5-a949-74831402e4cb.png)
 
 Algorithm for PUSH operation
 Check if the stack is full or not.
